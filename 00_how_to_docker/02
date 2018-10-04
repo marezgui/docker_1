@@ -1,1 +1,1 @@
-docker-machine env Char
+docker-machine ip Char

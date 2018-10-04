@@ -1,1 +1,1 @@
-docker ps -f name=overlord
+docker inspect --format '{{ .NetworkSettings.IPAddress }}' overlord
