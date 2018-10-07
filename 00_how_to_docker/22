@@ -1,0 +1,2 @@
+docker swarm join-token worker
+# Ensuite executer la commande indiquer sur la machine Aiur. 
