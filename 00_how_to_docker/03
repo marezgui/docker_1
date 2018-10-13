@@ -1,1 +1,2 @@
+# Run as . ./03 or source ./03
 eval $(docker-machine env Char)
